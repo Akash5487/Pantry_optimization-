@@ -15,9 +15,6 @@ Apache Kafka with Zookeeper
 Docker
 Minikube
 
-**Clone the repository:**
-git clone https://github.com/yourusername/PantryOptimization.git
-
 **Install client dependencies:**
 
 cd client
